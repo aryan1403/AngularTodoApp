@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
+import { todos } from './todos.model';
 
 @Component({
   selector: 'app-root',

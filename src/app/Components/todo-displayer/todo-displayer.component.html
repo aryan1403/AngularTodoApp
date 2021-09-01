@@ -1,0 +1,4 @@
+<div *ngFor="let todo of todoList" class="container-fluid">
+    <h5 style="margin-bottom: 10px; margin-top: 5px;">{{todo.id}}) {{todo.todo}}</h5>
+    <button class="btn btn-danger" style="margin-bottom: 20px;" (click)="deleteTodo(todo)">Delete</button>
+</div>
