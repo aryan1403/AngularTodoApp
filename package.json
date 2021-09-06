@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist"
   },
   "private": true,
-  "homepage": "https://aryan1403.github.io/AngularTodoApp/dist/todoApp/index.html",
+  "homepage": "https://github.com/aryan1403/AngularTodoApp/blob/master/dist/todoApp/index.html",
   "dependencies": {
     "@angular/animations": "~12.2.0",
     "@angular/common": "~12.2.0",
